@@ -17,6 +17,8 @@ I'm a Full Stack Web Developer with a passion for creating interactive and user-
 ### DevOps
 - **Version Control**: Git, GitHub
 - **Deployment**: Netlify
+
+(https://github.com/holdmypotion/holdmypotion/raw/main/code.gif?raw=true)
 <!-- ## Projects
 
 ### Project 1: E-commerce Website
