@@ -32,7 +32,7 @@ A responsive portfolio website built with Vue.js and Bootstrap. It showcases my 
 [View Project](https://github.com/johndoe/personal-portfolio) -->
 
 <!-- ## GitHub Stats -->
-![My Image](https://github.com/holdmypotion/holdmypotion/raw/main/code.gif?raw=true)
+<!-- ![My Image](https://github.com/holdmypotion/holdmypotion/raw/main/code.gif?raw=true) -->
 
 <!-- ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/johndoe)
@@ -41,7 +41,6 @@ A responsive portfolio website built with Vue.js and Bootstrap. It showcases my 
  -->
 Feel free to reach out to me for collaboration or any inquiries. I'm open to exciting opportunities and always ready to learn and grow as a developer.
     </div>
-  
     <div style="flex: 1;">
         ![My Image](https://github.com/holdmypotion/holdmypotion/raw/main/code.gif?raw=true)
     </div>
