@@ -37,7 +37,7 @@ I'm a Full Stack Web Developer with a passion for creating interactive and user-
 
 
 ## Skills
-<img src="https://github.com/holdmypotion/holdmypotion/raw/main/code.gif?raw=true" alt="Code GIF" width="500" height="380" align="right"/>
+<img src="https://github.com/holdmypotion/holdmypotion/raw/main/code.gif?raw=true" alt="Code GIF" width="400" height="300" align="right"/>
 
 ### Front End:
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png" alt="HTML Icon" width="50" height="50" /> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="CSS Icon" width="50" height="50" /> <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript Icon" width="50" height="50" /> <img src="https://cdn.iconscout.com/icon/free/png-256/free-sass-226054.png" alt="SCSS Icon" width="50" height="50" />
