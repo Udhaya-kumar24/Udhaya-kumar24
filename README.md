@@ -39,9 +39,8 @@ A responsive portfolio website built with Vue.js and Bootstrap. It showcases my 
 - [Twitter](https://twitter.com/johndoe)
 - [Personal Website](https://www.johndoe.com)
  -->
+ <img src="https://github.com/holdmypotion/holdmypotion/raw/main/code.gif?raw=true" alt="Code GIF" width="300" align="right"/>
+
 Feel free to reach out to me for collaboration or any inquiries. I'm open to exciting opportunities and always ready to learn and grow as a developer.
-    </div>
-    <div style="flex: 1;">
-        ![My Image](https://github.com/holdmypotion/holdmypotion/raw/main/code.gif?raw=true)
     </div>
 </div>
